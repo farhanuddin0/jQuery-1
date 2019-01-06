@@ -1,0 +1,223 @@
+ /*Extra small devices (portrait phones, less than 576px)*/
+
+ @media (max-width: 575.98px) {
+     #banner-area {
+         height: 180vh;
+     }
+
+     #video .image {
+         width: 100%;
+         position: relative;
+         padding-top: 40px;
+     }
+
+     #service .box {
+         margin: 25px auto;
+     }
+
+     #slide p {
+         font-size: 13px;
+     }
+
+     #slider .bg {
+         height: 65vh;
+     }
+
+     #price .p {
+         padding-bottom: 25px;
+     }
+
+     #info .p {
+         padding-bottom: 35px;
+     }
+
+     .media {
+         display: block;
+         text-align: center;
+     }
+
+     #community .d {
+         display: block;
+     }
+
+     #updates .p {
+         padding-bottom: 30px !important;
+     }
+
+     #free {
+         height: 95vh;
+     }
+
+     #download h2 {
+         padding-top: 30px;
+         font-size: 28px;
+     }
+
+     #footer p {
+         text-align: center;
+         font-size: 15px;
+         padding: 5px;
+     }
+
+     #footer .p {
+         font-size: 15px;
+         text-align: center;
+         float: none !important;
+         padding: 5px;
+     }
+
+ }
+
+ /*Small devices (landscape phones, 576px and up)*/
+
+ @media (min-width: 576px) and (max-width: 767.98px) {
+     #banner-area {
+         height: 150vh;
+     }
+
+     #video .image {
+         width: 100%;
+         position: relative;
+         padding-top: 40px;
+     }
+
+     #service .box {
+         margin: 25px auto;
+     }
+
+     #slide p {
+         font-size: 13px;
+     }
+
+     #slider .bg {
+         height: 50vh;
+     }
+
+     #price .p {
+         padding-bottom: 25px;
+     }
+
+     #info .p {
+         padding-bottom: 35px;
+     }
+
+     .media {
+         display: block;
+         text-align: center;
+     }
+
+     #community .d {
+         display: block;
+     }
+
+     #updates .p {
+         padding-bottom: 30px !important;
+     }
+
+     #free {
+         height: 95vh;
+     }
+
+     #download h2 {
+         padding-top: 30px;
+         font-size: 28px;
+     }
+
+     #footer p {
+         text-align: center;
+         font-size: 15px;
+         padding: 5px;
+     }
+
+     #footer .p {
+         font-size: 15px;
+         text-align: center;
+         float: none !important;
+         padding: 5px;
+     }
+ }
+
+ /*Medium devices (tablets, 768px and up)*/
+
+ @media (min-width: 768px) and (max-width: 991.98px) {
+     #banner-area {
+         height: 150vh;
+     }
+
+     #video .image {
+         width: 100%;
+         position: relative;
+         padding-top: 40px;
+     }
+
+     #service .box {
+         margin: 25px auto;
+     }
+
+     #slide p {
+         font-size: 18px;
+     }
+
+     #slider .bg {
+         height: 65vh;
+     }
+
+     #price .p {
+         padding-bottom: 25px;
+     }
+
+     #info .p {
+         padding-bottom: 35px;
+     }
+
+     .media {
+         display: block;
+         text-align: center;
+     }
+
+     #community .d {
+         display: block;
+     }
+
+     #updates .p {
+         padding-bottom: 30px !important;
+     }
+
+     #free {
+         height: 95vh;
+     }
+
+     #download h2 {
+         padding-top: 30px;
+         font-size: 28px;
+     }
+
+     #footer p {
+         text-align: center;
+         font-size: 15px;
+         padding: 5px;
+     }
+
+     #footer .p {
+         font-size: 15px;
+         text-align: center;
+         float: none !important;
+         padding: 5px;
+     }
+ }
+
+ /*Large devices (desktops, 992px and up)*/
+
+ @media (min-width: 992px) and (max-width: 1199.98px) {
+     #video .image {
+         right: 0;
+     }
+
+     #slider .bg {
+         height: 400px;
+     }
+ }
+
+ /*Extra large devices (large desktops, 1200px and up)*/
+
+ @media (min-width: 1200px) {}
